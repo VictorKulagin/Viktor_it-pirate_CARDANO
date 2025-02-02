@@ -53,15 +53,17 @@
   },
   "hashAlgorithm": "blake2b-256",
   "body": {
+    "doNotList": true,
     "givenName": "Viktor_it-pirates",
     "motivations": "I actively participate in voting within the Cardano ecosystem and have a technical background in development. My experience in programming and working with blockchain technologies enables me to analyze proposals in depth, assess their technical feasibility, and evaluate their long-term benefits for the network. I want to contribute to building an efficient and fair decision-making system.",
     "objectives": "I believe in decentralization, transparency, and the sustainable development of the Cardano ecosystem. As a DRep, my goal is to represent the interests of the community, vote for initiatives that contribute to the network’s growth, and help new participants adapt to the ecosystem.",
+    "paymentAddress": "addr1q8f3a09lrmyxwpxljurcpjl8372s0307sd3c4vehgn7x0q49gw33dvykjmmfeej9ccx82w2g5hhqszh9ua0qzkwry3es0newvw",
     "qualifications": "Experience in backend and frontend development\nUnderstanding of blockchain, smart contracts, NFTs, and decentralized applications\nExperience in developing CRM systems with blockchain integration (currently working on this)\nParticipation in Cardano voting\nExperience using Ledger and other cryptocurrency solutions",
     "references": [
       {
         "@type": "Link",
         "label": "Label",
-        "uri": "https://www.youtube.com/@it-pirates5235"
+        "uri": "https://www.youtube.com/watch?v=nRwTrO7QZ3Y&t=1s"
       },
       {
         "@type": "Identity",
